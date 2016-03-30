@@ -1,0 +1,21 @@
+
+[36m___________________________________________  
+	Username: Vicente.Rodriguez@Jalasoft.com           
+	Login type: login
+___________________________________________  
+[0m
+*********************************************
+              Status Files Changed             
+*********************************************
+Class1.cls - Changed
+*********************************************
+Starting update proccess...
+[==================================================]   1/1(100%)
+The files were successfully updated!
+
+
+BUILD SUCCESSFUL
+
+Total time: 8.655 secs
+
+This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.10/userguide/gradle_daemon.html

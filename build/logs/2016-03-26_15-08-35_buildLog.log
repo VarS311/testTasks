@@ -1,0 +1,30 @@
+
+[36m___________________________________________  
+	Username: Vicente.Rodriguez@Jalasoft.com           
+	Login type: login
+___________________________________________  
+[0m
+*********************************************
+              Status Files Changed             
+*********************************************
+HelloWorld.cls - Changed
+*********************************************
+Starting update proccess...
+
+Process status: Failed...
+Failed execute deployment task 
+:update FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':update'.
+> classes/HelloWorld.cls: expecting a right parentheses, found '{' at line 7, column 25.
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 8.27 secs

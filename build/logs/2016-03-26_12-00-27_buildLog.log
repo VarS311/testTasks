@@ -1,0 +1,25 @@
+
+[36m___________________________________________  
+	Username: Vicente.Rodriguez@Jalasoft.com           
+	Login type: login
+___________________________________________  
+[0m
+***********************************************************************
+			Files without metadata
+***********************************************************************
+classes/HelloWorld.cls
+Failed execute task
+:truncate FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':truncate'.
+> /home/vicente_rodriguez/JalaProjects/testTasks/src/package.xml (No such file or directory)
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 4.682 secs

@@ -1,0 +1,33 @@
+
+[36m___________________________________________  
+	Username: Vicente.Rodriguez@Jalasoft.com           
+	Login type: login
+___________________________________________  
+[0m
+***********************************************************************
+			Files without metadata
+***********************************************************************
+classes/DontUpdate.cls
+Deploying truncated code
+[===                                               ]   1/18(5%)[==================================================]   18/18(100%)
+Truncated code were successfully deployed
+
+Starting deploy
+[                                                  ]   0/18(0%)
+Process status: Failed...
+Failed execute deployment task 
+:deploy FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':deploy'.
+> classes/HelloWorld.cls: expecting a right parentheses, found '{' at line 7, column 25.
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 36.862 secs

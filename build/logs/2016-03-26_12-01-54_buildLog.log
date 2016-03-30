@@ -1,0 +1,16 @@
+
+*********************************************
+                Credentials                  
+*********************************************
+Id : default
+User name : Vicente.Rodriguez@Jalasoft.com
+Type : Production/Developer
+
+*********************************************
+Those credentials are located at /home/vicente_rodriguez/credentials.dat
+
+BUILD SUCCESSFUL
+
+Total time: 4.233 secs
+
+This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.10/userguide/gradle_daemon.html

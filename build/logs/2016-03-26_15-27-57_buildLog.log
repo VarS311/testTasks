@@ -1,0 +1,24 @@
+
+[36m___________________________________________  
+	Username: Vicente.Rodriguez@Jalasoft.com           
+	Login type: login
+___________________________________________  
+[0m
+***********************************************************************
+			Files without metadata
+***********************************************************************
+classes/DontUpdate.cls
+Starting truncate process...
+[                                                  ]   0/18(0%)[==================================================]   18/18(100%)
+All components truncated were successfully uploaded!
+
+Starting undeploy process...
+[                                                  ]   0/0(0%)[==================================================]   15/15(100%)
+The files were successfully deleted!
+
+
+BUILD SUCCESSFUL
+
+Total time: 37.939 secs
+
+This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.10/userguide/gradle_daemon.html

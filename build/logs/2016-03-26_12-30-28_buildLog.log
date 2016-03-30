@@ -1,0 +1,31 @@
+
+[36m___________________________________________  
+	Username: Vicente.Rodriguez@Jalasoft.com           
+	Login type: login
+___________________________________________  
+[0m
+*********************************************
+            Components to delete             
+*********************************************
+pages/Page1.page
+pages/Page2.page
+pages/Page3.page
+components/Component1.component
+classes/Class1.cls
+classes/Class2.cls
+classes/HelloWorld.cls
+classes/TestClass.cls
+classes/Class3.cls
+triggers/trigger1.trigger
+triggers/trigger2.trigger
+objects/Object2__c.object
+objects/Object1__c.object
+objects/CustomSetting1__c.object
+*********************************************
+The delete process was canceled
+
+BUILD SUCCESSFUL
+
+Total time: 35.151 secs
+
+This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.10/userguide/gradle_daemon.html

@@ -1,0 +1,30 @@
+
+[36m___________________________________________  
+	Username: Vicente.Rodriguez@Jalasoft.com           
+	Login type: login
+___________________________________________  
+[0m
+*********************************************
+              Status Files Changed             
+*********************************************
+HelloWorld2.cls - Added
+*********************************************
+Starting update proccess...
+[                                                  ]   0/1(0%)
+Process status: Failed...
+Failed execute deployment task 
+:update FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':update'.
+> classes/HelloWorld2.cls: File name mismatch with class name: HelloWorld at (HelloWorld2).
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 19.228 secs
